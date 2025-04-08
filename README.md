@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hallo, Mijn Naam is Bruno Dijkhuis<br><br>Ik volg de opleiding software development
+Hallo, Mijn naam is Bruno Dijkhuis<br><br>Ik volg momenteel de opleiding software development op het Talland College in Alkmaar
 
 
 # 💻 Tech Stack:
